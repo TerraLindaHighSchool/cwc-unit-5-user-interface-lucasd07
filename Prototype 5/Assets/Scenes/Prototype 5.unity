@@ -1029,6 +1029,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4223260779975029051, guid: 4028c4eaa74c3cd48b541587e1d52975,
+        type: 3}
+      propertyPath: pointValue
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8450943570524379757, guid: 4028c4eaa74c3cd48b541587e1d52975,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1158,6 +1163,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bad 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1751366533522922385, guid: de39158b9e5049b49b59ec82c833b386,
+        type: 3}
+      propertyPath: pointValue
+      value: -5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: de39158b9e5049b49b59ec82c833b386, type: 3}
 --- !u!1001 &8555366523302818378
@@ -1167,6 +1177,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3748229889182143273, guid: 443983eb31e1f3143938875b9e33b778,
+        type: 3}
+      propertyPath: pointValue
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8531429853084871374, guid: 443983eb31e1f3143938875b9e33b778,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1236,6 +1251,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 12193524361218729, guid: 8f337fcbcdedfb94d8e65dcd0a701930,
+        type: 3}
+      propertyPath: pointValue
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 3446357310282376987, guid: 8f337fcbcdedfb94d8e65dcd0a701930,
         type: 3}
       propertyPath: m_LocalPosition.x
